@@ -31,7 +31,7 @@ tính lương nếu số giờ làm việc lớn hơn 20 giờ một tuần lư�
         + xuất thông tin
         + Tính lương
 
-## Lớp giáo viên hợp đồng (Thừ kế từ lớp giáo viên)
+## Lớp giáo viên hợp đồng (Thừa kế từ lớp giáo viên)
 
 tính lương nếu chức vụ bằng trưởng khoa thì lương cơ bản nhân 10 + với 3% lương thực nhận
 nếu chức vụ bằng phó khoa thì lương cơ bản nhân 10 + với 2% số lương thực nhận
